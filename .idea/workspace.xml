@@ -4,16 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9242a36-e9b8-4d0a-9264-99fec458bd10" name="Changes" comment="" />
+    <list default="true" id="b9242a36-e9b8-4d0a-9264-99fec458bd10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/ui/fonts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui/dashboard/nav-links.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/ui/dashboard/nav-links.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2l4Xau1Pjz7uPLRA3y37CYld4aT" />
+  <component name="ProjectStartupLocalConfiguration">
+    <configurations>
+      <configuration id="Shell Script.Npm run dev" name="Npm run dev" />
+    </configurations>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,15 +40,53 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.Npm run dev.executor": "Run",
+    "Shell Script.Unnamed.executor": "Run",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.startup.tasks",
+    "ts.external.directory.path": "/home/master/Desktop/repos/nextjs-dashboard/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="/tmp/qodana_output/qodana.sarif.json" />
+        <option name="reportGuid" value="2dec09a6-9148-4b9c-937e-3b100fb745e5" />
+        <option name="reportName" value="nextjs-dashboard/qodana/2024-08-24" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/tmp/qodana_output/qodana.sarif.json" reportGuid="2dec09a6-9148-4b9c-937e-3b100fb745e5" reportId="nextjs-dashboard/qodana/2024-08-24" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Npm run dev" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$USER_HOME$/start-dev.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -45,11 +102,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724440388324</updated>
-      <workItem from="1724440389356" duration="1156000" />
+      <workItem from="1724440389356" duration="6050000" />
+      <workItem from="1724495481135" duration="4961000" />
+      <workItem from="1724501380718" duration="95000" />
+      <workItem from="1724501485132" duration="502000" />
+      <workItem from="1724502017866" duration="2310000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/page.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
